@@ -1,2 +1,4 @@
 Scenario 1: Chennai to Madurai
-Scenario 1: Madurai to Chennai
+Scenario 2: Madurai to Chennai
+Scenario 3: Madurai to Goa
+Scenario 4: Goa to Chennai
